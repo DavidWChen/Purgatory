@@ -1,0 +1,1 @@
+mp_potential_step(o_player.x, o_player.y, spd, false)
